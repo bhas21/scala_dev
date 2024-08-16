@@ -1,3 +1,7 @@
+//WRITE A SCALA FUNCTION TO CHECK THE GIVEN NUMBER IS BOTH EVEN AND POSITIVE.
+//
+//SAMPLE DATA:
+//14
 object EvenPositive extends App{
 
   def fun(a:Int)= {
